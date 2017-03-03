@@ -21,7 +21,7 @@
 			<p class="quote" id="quote-content"></p>
 			<p class="quote" id="quote-author"></p>
 			<p class="quote" id="quote-source"></p>
-			
+			<input id="twitter-btn" class="btn" type="button"></input>
 		</div>
 		
         <!-- JQuery Plugin -->
